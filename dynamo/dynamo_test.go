@@ -2,7 +2,6 @@ package dynamo
 
 import (
 	"../sts"
-	//"fmt"
 	"github.com/justinbarry/goamz-aws"
 	"github.com/stathat/jconfig"
 	"testing"
